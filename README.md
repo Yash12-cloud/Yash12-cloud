@@ -1,5 +1,5 @@
 ![Header](./your-header-github-header-image (1).png)
-<img align="right" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="">
+/*<img align="right" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="">*/
 # 💫 About Me:
 🛠 I'm currently working on:<br>Building strong fundamentals in Java, C++, and Data Structures & Algorithms.<br><br>🤝 I'm looking to collaborate on:<br>DSA practice groups, coding challenges, and beginner-friendly dev projects.<br><br>🌱 I'm currently learning:<br>Java, C++, and DSA through problem practice .<br><br>💬 Ask me about:<br>Learning strategies, staying consistent with coding, or how to get started with DSA.<br><br>⚡ Fun fact:<br>I enjoy explaining coding concepts to others — it helps me understand better too!
 
