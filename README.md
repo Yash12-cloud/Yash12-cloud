@@ -9,20 +9,20 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a></p>
 
-🌐 Socials:
+<h2>🌐 Socials:</h2>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashnimje__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-nimje-838934342) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashnimje2005@gmail.com) 
 
-💻 Tech Stack:
+<h2>💻 Tech Stack:</h2>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-📊 GitHub Stats:
+<h2>📊 GitHub Stats:</h2>
 ![](https://github-readme-stats.vercel.app/api?username=Yash12-cloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yash12-cloud&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash12-cloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-✍️ Random Dev Quote
+<h2>✍️ Random Dev Quote</h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🔝 Top Contributed Repo
+<h2>🔝 Top Contributed Repo</h2>
 ![](https://github-contributor-stats.vercel.app/api?username=Yash12-cloud&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
